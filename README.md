@@ -7,7 +7,7 @@ UX/UI designer's portfolio website.
 
 <div align="center">
   
-  <img src="#">
+  <img src="https://github.com/GypsyTheDj/Ndeto-Portfolio/blob/master/images/ndeto.png">
   
 </div>
 
